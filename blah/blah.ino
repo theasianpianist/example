@@ -1,6 +1,6 @@
 void setup() {
   // put your setup code here, to run once:
-  int a = 0;
+  int b = 0;
   char *string = "ethutah";
 
 }
